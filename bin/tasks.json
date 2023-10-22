@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "addExtensionPackDependencies",
+			"path": "extensions/ms-python.python-2022.6.3",
+			"problemMatcher": [],
+			"label": "npm: addExtensionPackDependencies - extensions/ms-python.python-2022.6.3",
+			"detail": "gulp addExtensionPackDependencies"
+		}
+	]
+}
